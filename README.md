@@ -43,12 +43,12 @@ IoT 개발자 알고리즘고급(코딩테스트 ) 학습리포지토리
         - C, C++ 어려움
 
 - 코딩테스트 학습
-    - [x] [복잡도](https://github.com/hugoMGSung/Iot-codingtest-2024/blob/main/day1/ct001_complexity.ipynb)
-    - [x] [그리디](https://github.com/hugoMGSung/Iot-codingtest-2024/blob/main/day1/ct002_greedy.ipynb)
+    - [x] [복잡도](https://github.com/breadcoffee/Iot-codingtest-2024/blob/main/day1/ct001_complexity.ipynb)
+    - [x] [그리디](https://github.com/breadcoffee/Iot-codingtest-2024/blob/main/day1/ct002_greedy.ipynb)
 
 ## 2일차
 - 코딩테스트 학습
-    - [ ] [구현]()
+    - [x] [구현](https://github.com/breadcoffee/Iot-codingtest-2024/blob/main/day2/ct003_implement.ipynb)
     - [ ] [DFS]()
     - [ ] [BFS]()
     - [ ] [DP]()
